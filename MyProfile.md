@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
-<bodystyle="background-color:#00BFFF;">
+<body style="background-color:#00BFFF;">
  <header>My Profile</header>
   <main>
+   <h1 style="background-color:DodgerBlue;">Hello World</h1>
    <h1>Peter Aird</h1>
     <h2>Student ID S391092</h2>
     <img src="spock.jpg"/>
