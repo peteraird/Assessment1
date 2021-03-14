@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
-<body>
- <style="background-color:powderblue;">
+<body style="background-color:powderblue;">
  <header>My Profile</header>
   <main>
    <h1>Peter Aird</h1>
